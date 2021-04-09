@@ -10,7 +10,7 @@
   },
   "binary": {
     "module_name": "crc",
-    "module_path": "./index.js",
+    "module_path": "./lib/binding/",
     "host": "https://mapbox-node-binary.s3.amazonaws.com"
   },
   "repository": {
