@@ -8,6 +8,11 @@
     "test": "mocha --reporter spec",
     "benchmark": "mocha --reporter spec benchmark"
   },
+  "binary": {
+    "module_name": "crc",
+    "module_path": "./index.js",
+    "host": "https://mapbox-node-binary.s3.amazonaws.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/magiclen/node-crc.git"
